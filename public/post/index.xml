@@ -7,7 +7,17 @@
     <language>en-US</language>
     
     
-    <updated>Sat, 20 Dec 2014 22:50:54 EST</updated>
+    <updated>Tue, 06 Jan 2015 11:16:42 EST</updated>
+    
+    <item>
+      <title>github pages</title>
+      <link>http://jaden.github.io/hugo-testing/2015/github-pages</link>
+      <pubDate>Tue, 06 Jan 2015 11:16:42 EST</pubDate>
+      
+      <guid>http://jaden.github.io/hugo-testing/2015/github-pages</guid>
+      <description>&lt;p&gt;This is a new page using github pages.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>git</title>
