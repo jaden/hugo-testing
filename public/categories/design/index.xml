@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Design on My New Site </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://jaden.github.io/hugo-testing/categories/design/index.xml/</link>
+    <language>en-US</language>
+    
+    
+    <updated>Thu, 16 Oct 2014 16:47:54 -0500</updated>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://jaden.github.io/hugo-testing/2014/First-Post</link>
+      <pubDate>Thu, 16 Oct 2014 16:47:54 -0500</pubDate>
+      
+      <guid>http://jaden.github.io/hugo-testing/2014/First-Post</guid>
+      <description>&lt;p&gt;This is the content&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis dicta voluptate dignissimos quam numquam id corporis neque repellendus sit ex et optio quibusdam tempore molestias repudiandae nulla, consequatur fuga sed.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
