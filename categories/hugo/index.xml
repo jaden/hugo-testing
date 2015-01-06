@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Hugo on My New Site </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://jaden.github.io/hugo-testing/categories/hugo/index.xml/</link>
+    <language>en-US</language>
+    
+    
+    <updated>Tue, 16 Dec 2014 17:16:10 EST</updated>
+    
+    <item>
+      <title>fourth</title>
+      <link>http://jaden.github.io/hugo-testing/2014/fourth</link>
+      <pubDate>Tue, 16 Dec 2014 17:16:10 EST</pubDate>
+      
+      <guid>http://jaden.github.io/hugo-testing/2014/fourth</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/hugo-testing/images/boat.jpg&#34; alt=&#34;A boat&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;This is a Boat.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil sit nostrum vitae architecto facilis, placeat esse iusto, vel accusamus sint deserunt ratione ab provident commodi fuga doloremque. Ut, unde, doloribus.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias, ad praesentium. Asperiores neque necessitatibus consequuntur possimus amet enim obcaecati explicabo accusamus reiciendis delectus fugiat tenetur, quam ipsum libero, eius, sit aspernatur temporibus inventore distinctio sint nam dicta. Possimus enim rerum, saepe quam laudantium reiciendis dolor quisquam architecto quod totam ratione suscipit labore voluptatibus incidunt velit similique nobis sequi deleniti accusamus unde debitis, modi, quidem repellendus ab. Ipsam itaque sint et ullam voluptate, iure, inventore sapiente id! A possimus est illo commodi dolorum. Nemo illo omnis, molestias veritatis impedit quibusdam nulla iste! Eaque, eligendi voluptate dignissimos excepturi maxime explicabo nemo vitae.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>second</title>
+      <link>http://jaden.github.io/hugo-testing/2014/second</link>
+      <pubDate>Sun, 16 Nov 2014 17:16:03 EST</pubDate>
+      
+      <guid>http://jaden.github.io/hugo-testing/2014/second</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas in fugiat voluptate itaque amet veritatis adipisci sit quo quam, labore quibusdam dolorum, explicabo eius fugit. Laboriosam iste, ratione, voluptatem magni maiores numquam dolore pariatur eaque velit repellat nam. Quia officiis, ullam magnam, pariatur doloribus aperiam, adipisci recusandae ea dolorem, optio temporibus voluptate. Corporis, cupiditate vero facere dolores accusamus dolor eaque deserunt quaerat consectetur consequuntur ab laborum repellendus ex alias qui velit totam impedit aperiam distinctio cum possimus aspernatur est id voluptatum! Quasi, provident. Veniam quis molestias, exercitationem hic quam perferendis tenetur corporis, vitae fugit cum officiis consectetur neque tempore a.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

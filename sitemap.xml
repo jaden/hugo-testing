@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://jaden.github.io/hugo-testing/</loc>
+    <lastmod>2014-12-20T22:50:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jaden.github.io/hugo-testing/2014/git</loc>
+    <lastmod>2014-12-20T22:50:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jaden.github.io/hugo-testing/2014/shortcodes</loc>
+    <lastmod>2014-12-19T17:01:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jaden.github.io/hugo-testing/2014/reload</loc>
+    <lastmod>2014-12-19T16:25:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jaden.github.io/hugo-testing/2014/fourth</loc>
+    <lastmod>2014-12-16T17:16:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jaden.github.io/hugo-testing/about/</loc>
+    <lastmod>2014-12-16T16:47:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jaden.github.io/hugo-testing/2014/third</loc>
+    <lastmod>2014-12-10T17:16:07-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jaden.github.io/hugo-testing/2014/second</loc>
+    <lastmod>2014-11-16T17:16:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jaden.github.io/hugo-testing/2014/First-Post</loc>
+    <lastmod>2014-10-16T16:47:54-05:00</lastmod>
+  </url>
+  
+</urlset>
