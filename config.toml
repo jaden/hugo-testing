@@ -1,0 +1,20 @@
+baseurl = "http://jaden.github.io/hugo-testing/"
+languageCode = "en-US"
+title = "My New Site"
+theme = "twentyfourteen"
+disqusShortname = "foobar"
+
+[author]
+	primary = "Dan Hersam"
+
+[params]
+    Description = "An example web site built with Hugo"
+    FooBar = "testing 1 2 3"
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+
+[permalinks]
+    post = "/:year/:slug"
+
